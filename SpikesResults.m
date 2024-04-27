@@ -39,7 +39,7 @@ clear all; close all;
 %    and perform a segmentation with a simple rectangular region.
 
 %    Reading the video in the storage directory in the PC
-Video = VideoReader('C:\Your PC\Spikes\Videos\abd5223s1.mov');
+Video = VideoReader('C:\Your PC\Spikes\Videos\Video 1.mov');
 
 %    Previous instruction interpreting the video as an structure where 
 %    the frames sizes and number of frames are obtained.
