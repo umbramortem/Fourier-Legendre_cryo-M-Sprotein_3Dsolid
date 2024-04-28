@@ -382,8 +382,11 @@ for m = 1:M
     end
 end
 
-%    Instruction to see the 3D model of the SARS-CoV-2 cell
-volumeViewer(FitImage);
+%    Instruction to see the 3D model of the SARS-CoV-2 cell.
+%    Variables contained in the 3D Solids folder of the GitHub repository
+volumeViewer(NanImages);
+%volumeViewer(Volum3DObject_S1);
+
 
 %    Measurements of the Spike obtained from the video metadata "In situ 
 %    structural analysis of SARS-CoV-2 spike reveals flexibility mediated
