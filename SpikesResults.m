@@ -3,8 +3,8 @@
 clear all; close all;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled  "Fourier-Legendre cryo-EM to generate SARS-CoV-2
-%    S protein volumetric object from 2D Legendre bases Interpolator",
+%    the manuscript entitled  "Fourier-Legendre phase analysis into cryo-EM
+%    SARS-CoV-2 clinical study to generate S protein volumetric object",
 %    submitted to The JOSA (Journal of the Optical Society of America) A .
 %
 %    Recalling that the ROI are built from 3D tomographic by cryo electron 
