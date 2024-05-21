@@ -1,10 +1,9 @@
 function [MaskSeg, WiNoise] = FourierPN(data, maxiter)
 
 %    This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled  "Fourier-Legendre cryo-EM to generate 
-%    SARS-CoV-2 S protein volumetric object from 2D Legendre bases 
-%    Interpolator", submitted to The JOSA (Journal of the Optical Society 
-%    of America) A .
+%    the manuscript entitled  "Fourier-Legendre phase analysis into cryo-EM
+%    SARS-CoV-2 clinical study to generate S protein volumetric object",
+%    submitted to The JOSA (Journal of the Optical Society of America) A .
 %
 %    In this code we search for base periodic noise in all frames under the
 %    cryo-EM study, Turonová et al. [28], in order to remove it from the 
