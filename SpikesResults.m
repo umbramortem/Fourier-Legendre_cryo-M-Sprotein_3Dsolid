@@ -101,7 +101,7 @@ MaxSpike2 = Frames0(:,:,102);
 %    Basic segmentation of the mask with real size in comparison with the 
 %    video, for Spike 2
 %Mask2 = imcrop(MaxSpike2, [1301.5 849.5 103 158]);
-%figure; imshow(Mask1)
+%figure; imshow(Mask2)
 
 %    ROI application in all frames of Spike 2
 for k = 1:C2    
