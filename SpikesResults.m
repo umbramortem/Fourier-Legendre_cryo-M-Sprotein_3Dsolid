@@ -3,10 +3,10 @@
 clear all; close all;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled "Fourier-Legendre cryo-EM to generate 
-%    SARS-CoV-2 S protein volumetric object from 2D Legendre bases 
-%    Interpolator", submitted to The JOSA (Journal of the Optical Society
-%     of America) A .
+%    the manuscript entitled "Fourier and bi-dimensional Legendre base 
+%    interpolator applied to cryo-EM to generate a SARS-CoV-2 S protein 3D
+%    volumetric object", submitted to The Patterns Analysis and Applications
+%    by SPRINGER.
 %
 %    Recalling that the ROI are built from 3D tomographic by cryo electron 
 %    microscopy (cryo-EM) image data from the research work "In situ 
@@ -40,7 +40,7 @@ clear all; close all;
 %    and perform a segmentation with a simple rectangular region.
 
 %    Reading the video in the storage directory in the PC
-Video = VideoReader('C:\Your PC\Spikes\Videos\Visualization 1.mov');
+Video = VideoReader('C:\Your PC\Spikes\Videos\Video 1.mov');
 
 %    Previous instruction interpreting the video as an structure where 
 %    the frames sizes and number of frames are obtained.
