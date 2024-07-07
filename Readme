@@ -3,8 +3,8 @@
 English Instructions
 
 This repository considers those files essential to replicate the results of the manuscript titled:
-“Fourier-Legendre cryo-EM to generate SARS-CoV-2 S protein volumetric object from 2D Legendre bases Interpolator”
-Submitted in (Journal of the Optical Society of America A) JOSA A de OPTICA.
+“Fourier and bi-dimensional Legendre base interpolator applied to cryo-EM to generate a SARS-CoV-2 S protein 3D volumetric object”
+Submitted in Pattern Analysis and Applications (PAA) by SPRINGER.
 
 The main reason is the size and number of the files since there are more than 900 files with a weight greater than 2Gb. Likewise, we mention throughout the manuscript the names of the files and how they can be located in different folders at different addresses. Because it is necessary to differentiate between the frames as metadata (48 and 45 per Protein S analyzed) and on the other hand the intermediate frames generated (738 and 954 per Protein S). Additionally, we attach the files of the 3D Solids or 3D models or volumetric objects of each Protein S (Spike) analyzed, highlighting that a version higher than Matlab 2018 is needed to be able to execute the VolumeViewer function without problems, which could be reflected in a behavior slow in solid rotation as well as in volumetric navigation when zooming.
 
@@ -15,9 +15,9 @@ https://correobuap-my.sharepoint.com/:f:/g/personal/jesus_arriagahdz_correo_buap
 Instrucciones en Español
 
 Este repositorio considera aquellos archivos indispensables para replicar los resultados del manuscrito titulado:
-“Fourier-Legendre cryo-EM to generate SARS-CoV-2 S protein volumetric object from 2D Legendre bases Interpolator”
+“Fourier and bi-dimensional Legendre base interpolator applied to cryo-EM to generate a SARS-CoV-2 S protein 3D volumetric object”
 
-Sometido en (Journal of the Optical Society of America A) JOSA A de OPTICA.
+Sometido en Pattern Analysis and Applications (PAA) una revista de SPRINGER.
 
 La principal razón es por el tamaño y numero de los archivos, pues son más de 900 archivos con un peso mayor a 2Gb. Igualmente, mencionamos a lo largo del manuscrito el nombre de los archivos y como estos se pueden ubicar en las diferentes carpetas de las diferentes direcciones. Porque se debe diferenciar entre los frames como metadatos (48 y 45 por Proteína S analizada) y por otro lado los frames intermedios generados (738 y 954 por Proteína S). Adicionalmente anexamos los archivos de los Solidos 3D o modelos 3D u objetos volumétricos de cada Proteína S (Spike) analizada, destacando que se necesita una versión superior a Matlab 2018 para poder ejecutar la función VolumeViewer sin problemas, lo cual podría verse reflejado en un comportamiento lento en la rotación del solido, así como en la navegación volumétrica al dar zoom.
 
