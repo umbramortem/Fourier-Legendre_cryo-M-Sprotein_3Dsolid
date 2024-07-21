@@ -3,10 +3,10 @@
 clear all; close all;
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    This code constitutes an important tool for obtaining the results in
-%    the manuscript entitled "Fourier and bi-dimensional Legendre base 
-%    interpolator applied to cryo-EM to generate a SARS-CoV-2 S protein 3D
-%    volumetric object", submitted to The Journal of Medical Systems (JMS):
-%    the home of clinical informatics Research by SPRINGER.
+%    the manuscript entitled "3D volumetric objects of SARS-CoV-2 Spikes 
+%    applying 2D-Legendre bases as phase objects in frames of cryo-EM 
+%    studies" submitted to The Pattern Analysis Applications (PAA) by 
+%    SPRINGER.
 %
 %    Recalling that the ROI are built from 3D tomographic by cryo electron 
 %    microscopy (cryo-EM) image data from the research work "In situ 
