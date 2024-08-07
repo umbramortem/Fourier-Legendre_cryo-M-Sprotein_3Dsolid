@@ -3,7 +3,7 @@ function [MaskSeg, WiNoise] = FourierPN(data, maxiter)
 %    This code constitutes an important tool for obtaining the results in
 %    the manuscript entitled "3D volumetric objects of SARS-CoV-2 Spikes 
 %    applying 2D-Legendre bases as phase objects in frames of cryo-EM studies"
-%    submitted to The Pattern Analysis Applications (PAA) by SPRINGER.
+%    submitted to The Physics in Medicine & Biology (PMB) by IOP.
 %
 %    In this code we search for base periodic noise in all frames under the
 %    cryo-EM study, Turonová et al. [28], in order to remove it from the 
